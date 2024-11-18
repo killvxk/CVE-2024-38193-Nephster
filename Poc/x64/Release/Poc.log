@@ -1,0 +1,194 @@
+﻿  poc.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2549,1): warning C4005: 'STATUS_WAIT_0': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(66): message : see previous definition of 'STATUS_WAIT_0'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2550,1): warning C4005: 'STATUS_ABANDONED_WAIT_0': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(223): message : see previous definition of 'STATUS_ABANDONED_WAIT_0'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2551,1): warning C4005: 'STATUS_USER_APC': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(246): message : see previous definition of 'STATUS_USER_APC'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2552,1): warning C4005: 'STATUS_TIMEOUT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(282): message : see previous definition of 'STATUS_TIMEOUT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2553,1): warning C4005: 'STATUS_PENDING': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(291): message : see previous definition of 'STATUS_PENDING'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2554,1): warning C4005: 'DBG_EXCEPTION_HANDLED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(747): message : see previous definition of 'DBG_EXCEPTION_HANDLED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2555,1): warning C4005: 'DBG_CONTINUE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(756): message : see previous definition of 'DBG_CONTINUE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2556,1): warning C4005: 'STATUS_SEGMENT_NOTIFICATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(831): message : see previous definition of 'STATUS_SEGMENT_NOTIFICATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2557,1): warning C4005: 'STATUS_FATAL_APP_EXIT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(994): message : see previous definition of 'STATUS_FATAL_APP_EXIT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2558,1): warning C4005: 'DBG_REPLY_LATER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1332): message : see previous definition of 'DBG_REPLY_LATER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2559,1): warning C4005: 'DBG_TERMINATE_THREAD': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1350): message : see previous definition of 'DBG_TERMINATE_THREAD'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2560,1): warning C4005: 'DBG_TERMINATE_PROCESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1359): message : see previous definition of 'DBG_TERMINATE_PROCESS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2561,1): warning C4005: 'DBG_CONTROL_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1368): message : see previous definition of 'DBG_CONTROL_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2562,1): warning C4005: 'DBG_PRINTEXCEPTION_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1377): message : see previous definition of 'DBG_PRINTEXCEPTION_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2563,1): warning C4005: 'DBG_RIPEXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1386): message : see previous definition of 'DBG_RIPEXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2564,1): warning C4005: 'DBG_CONTROL_BREAK': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1395): message : see previous definition of 'DBG_CONTROL_BREAK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2565,1): warning C4005: 'DBG_COMMAND_EXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1404): message : see previous definition of 'DBG_COMMAND_EXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2566,1): warning C4005: 'DBG_PRINTEXCEPTION_WIDE_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1413): message : see previous definition of 'DBG_PRINTEXCEPTION_WIDE_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2567,1): warning C4005: 'STATUS_GUARD_PAGE_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1445): message : see previous definition of 'STATUS_GUARD_PAGE_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2568,1): warning C4005: 'STATUS_DATATYPE_MISALIGNMENT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1456): message : see previous definition of 'STATUS_DATATYPE_MISALIGNMENT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2569,1): warning C4005: 'STATUS_BREAKPOINT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1467): message : see previous definition of 'STATUS_BREAKPOINT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2570,1): warning C4005: 'STATUS_SINGLE_STEP': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1478): message : see previous definition of 'STATUS_SINGLE_STEP'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2571,1): warning C4005: 'STATUS_LONGJUMP': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1781): message : see previous definition of 'STATUS_LONGJUMP'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2572,1): warning C4005: 'STATUS_UNWIND_CONSOLIDATE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1808): message : see previous definition of 'STATUS_UNWIND_CONSOLIDATE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2573,1): warning C4005: 'DBG_EXCEPTION_NOT_HANDLED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1923): message : see previous definition of 'DBG_EXCEPTION_NOT_HANDLED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2574,1): warning C4005: 'STATUS_ACCESS_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2090): message : see previous definition of 'STATUS_ACCESS_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2575,1): warning C4005: 'STATUS_IN_PAGE_ERROR': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2099): message : see previous definition of 'STATUS_IN_PAGE_ERROR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2576,1): warning C4005: 'STATUS_INVALID_HANDLE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2117): message : see previous definition of 'STATUS_INVALID_HANDLE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2577,1): warning C4005: 'STATUS_INVALID_PARAMETER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2162): message : see previous definition of 'STATUS_INVALID_PARAMETER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2578,1): warning C4005: 'STATUS_NO_MEMORY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2262): message : see previous definition of 'STATUS_NO_MEMORY'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2579,1): warning C4005: 'STATUS_ILLEGAL_INSTRUCTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2319): message : see previous definition of 'STATUS_ILLEGAL_INSTRUCTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2580,1): warning C4005: 'STATUS_NONCONTINUABLE_EXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2400): message : see previous definition of 'STATUS_NONCONTINUABLE_EXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2581,1): warning C4005: 'STATUS_INVALID_DISPOSITION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2409): message : see previous definition of 'STATUS_INVALID_DISPOSITION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2582,1): warning C4005: 'STATUS_ARRAY_BOUNDS_EXCEEDED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3342): message : see previous definition of 'STATUS_ARRAY_BOUNDS_EXCEEDED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2583,1): warning C4005: 'STATUS_FLOAT_DENORMAL_OPERAND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3352): message : see previous definition of 'STATUS_FLOAT_DENORMAL_OPERAND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2584,1): warning C4005: 'STATUS_FLOAT_DIVIDE_BY_ZERO': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3362): message : see previous definition of 'STATUS_FLOAT_DIVIDE_BY_ZERO'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2585,1): warning C4005: 'STATUS_FLOAT_INEXACT_RESULT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3372): message : see previous definition of 'STATUS_FLOAT_INEXACT_RESULT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2586,1): warning C4005: 'STATUS_FLOAT_INVALID_OPERATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3382): message : see previous definition of 'STATUS_FLOAT_INVALID_OPERATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2587,1): warning C4005: 'STATUS_FLOAT_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3392): message : see previous definition of 'STATUS_FLOAT_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2588,1): warning C4005: 'STATUS_FLOAT_STACK_CHECK': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3402): message : see previous definition of 'STATUS_FLOAT_STACK_CHECK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2589,1): warning C4005: 'STATUS_FLOAT_UNDERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3412): message : see previous definition of 'STATUS_FLOAT_UNDERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2590,1): warning C4005: 'STATUS_INTEGER_DIVIDE_BY_ZERO': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3422): message : see previous definition of 'STATUS_INTEGER_DIVIDE_BY_ZERO'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2591,1): warning C4005: 'STATUS_INTEGER_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3432): message : see previous definition of 'STATUS_INTEGER_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2592,1): warning C4005: 'STATUS_PRIVILEGED_INSTRUCTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3442): message : see previous definition of 'STATUS_PRIVILEGED_INSTRUCTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2593,1): warning C4005: 'STATUS_STACK_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4388): message : see previous definition of 'STATUS_STACK_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2594,1): warning C4005: 'STATUS_DLL_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4905): message : see previous definition of 'STATUS_DLL_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2595,1): warning C4005: 'STATUS_ORDINAL_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4934): message : see previous definition of 'STATUS_ORDINAL_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2596,1): warning C4005: 'STATUS_ENTRYPOINT_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4944): message : see previous definition of 'STATUS_ENTRYPOINT_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2597,1): warning C4005: 'STATUS_CONTROL_C_EXIT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4954): message : see previous definition of 'STATUS_CONTROL_C_EXIT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2598,1): warning C4005: 'STATUS_DLL_INIT_FAILED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(5032): message : see previous definition of 'STATUS_DLL_INIT_FAILED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2599,1): warning C4005: 'STATUS_CONTROL_STACK_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(6029): message : see previous definition of 'STATUS_CONTROL_STACK_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2600,1): warning C4005: 'STATUS_FLOAT_MULTIPLE_FAULTS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7623): message : see previous definition of 'STATUS_FLOAT_MULTIPLE_FAULTS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2601,1): warning C4005: 'STATUS_FLOAT_MULTIPLE_TRAPS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7633): message : see previous definition of 'STATUS_FLOAT_MULTIPLE_TRAPS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2602,1): warning C4005: 'STATUS_REG_NAT_CONSUMPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7765): message : see previous definition of 'STATUS_REG_NAT_CONSUMPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2603,1): warning C4005: 'STATUS_HEAP_CORRUPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(8748): message : see previous definition of 'STATUS_HEAP_CORRUPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2604,1): warning C4005: 'STATUS_STACK_BUFFER_OVERRUN': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(8976): message : see previous definition of 'STATUS_STACK_BUFFER_OVERRUN'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2605,1): warning C4005: 'STATUS_INVALID_CRUNTIME_PARAMETER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(9103): message : see previous definition of 'STATUS_INVALID_CRUNTIME_PARAMETER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2606,1): warning C4005: 'STATUS_ASSERTION_FAILURE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(9166): message : see previous definition of 'STATUS_ASSERTION_FAILURE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2607,1): warning C4005: 'STATUS_ENCLAVE_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10075): message : see previous definition of 'STATUS_ENCLAVE_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2608,1): warning C4005: 'STATUS_INTERRUPTED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10736): message : see previous definition of 'STATUS_INTERRUPTED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2609,1): warning C4005: 'STATUS_THREAD_NOT_RUNNING': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10745): message : see previous definition of 'STATUS_THREAD_NOT_RUNNING'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2610,1): warning C4005: 'STATUS_ALREADY_REGISTERED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(11057): message : see previous definition of 'STATUS_ALREADY_REGISTERED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2612,1): warning C4005: 'STATUS_SXS_EARLY_DEACTIVATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(14940): message : see previous definition of 'STATUS_SXS_EARLY_DEACTIVATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2613,1): warning C4005: 'STATUS_SXS_INVALID_DEACTIVATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(14949): message : see previous definition of 'STATUS_SXS_INVALID_DEACTIVATION'
+C:\work\CVE-2024-38193\Poc\poc.h(51,2): warning C4091: 'typedef ': ignored on left of 'IO_STATUS_BLOCK' when no variable is declared
+C:\work\CVE-2024-38193\Poc\poc.h(531,2): warning C4091: 'typedef ': ignored on left of 'EVENT_TYPE' when no variable is declared
+C:\work\CVE-2024-38193\Poc\poc.h(546,2): warning C4091: 'typedef ': ignored on left of 'MY_AFD_CONNECT_INFO' when no variable is declared
+C:\work\CVE-2024-38193\Poc\poc.h(558,2): warning C4091: 'typedef ': ignored on left of 'FAKE_DATA_ENTRY_QUEUE' when no variable is declared
+C:\work\CVE-2024-38193\Poc\poc.h(635,2): warning C4091: 'typedef ': ignored on left of '_EX_PUSH_LOCK' when no variable is declared
+C:\work\CVE-2024-38193\Poc\poc.h(642,2): warning C4091: 'typedef ': ignored on left of '_SEP_CACHED_HANDLES_TABLE' when no variable is declared
+C:\work\CVE-2024-38193\Poc\poc.h(652,2): warning C4091: 'typedef ': ignored on left of '_EX_RUNDOWN_REF' when no variable is declared
+C:\work\CVE-2024-38193\Poc\poc.h(660,2): warning C4091: 'typedef ': ignored on left of '_OB_HANDLE_REVOCATION_BLOCK' when no variable is declared
+C:\work\CVE-2024-38193\Poc\poc.h(682,2): warning C4091: 'typedef ': ignored on left of '_SEP_LOGON_SESSION_REFERENCES' when no variable is declared
+C:\work\CVE-2024-38193\Poc\poc.cpp(91,27): warning C4302: 'type cast': truncation from 'HANDLE' to 'char'
+C:\work\CVE-2024-38193\Poc\poc.cpp(91,55): warning C4311: 'type cast': pointer truncation from 'HANDLE' to 'uint32_t'
+C:\work\CVE-2024-38193\Poc\poc.cpp(91,55): warning C4302: 'type cast': truncation from 'HANDLE' to 'uint32_t'
+C:\work\CVE-2024-38193\Poc\poc.cpp(91,19): warning C4838: conversion from 'char' to 'unsigned char' requires a narrowing conversion
+C:\work\CVE-2024-38193\Poc\poc.cpp(91,57): warning C4838: conversion from 'char' to 'unsigned char' requires a narrowing conversion
+C:\work\CVE-2024-38193\Poc\poc.cpp(210,39): warning C4305: '=': truncation from 'WORD' to 'BYTE'
+C:\work\CVE-2024-38193\Poc\poc.cpp(210,34): warning C4309: '=': truncation of constant value
+C:\work\CVE-2024-38193\Poc\poc.cpp(221,68): warning C4302: 'type cast': truncation from 'void *' to 'BYTE'
+C:\work\CVE-2024-38193\Poc\poc.cpp(244,87): warning C4311: 'type cast': pointer truncation from 'void *' to 'ULONG'
+C:\work\CVE-2024-38193\Poc\poc.cpp(244,87): warning C4302: 'type cast': truncation from 'void *' to 'ULONG'
+C:\work\CVE-2024-38193\Poc\poc.cpp(471,14): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\work\CVE-2024-38193\Poc\poc.cpp(627,37): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\work\CVE-2024-38193\Poc\poc.cpp(627,37): warning C4309: 'initializing': truncation of constant value
+C:\work\CVE-2024-38193\Poc\poc.cpp(627,42): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\work\CVE-2024-38193\Poc\poc.cpp(627,42): warning C4309: 'initializing': truncation of constant value
+C:\work\CVE-2024-38193\Poc\poc.cpp(627,47): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\work\CVE-2024-38193\Poc\poc.cpp(627,47): warning C4309: 'initializing': truncation of constant value
+C:\work\CVE-2024-38193\Poc\poc.cpp(627,52): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\work\CVE-2024-38193\Poc\poc.cpp(627,52): warning C4309: 'initializing': truncation of constant value
+C:\work\CVE-2024-38193\Poc\poc.cpp(761,12): warning C4477: 'printf' : format string '%llx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type '_LIST_ENTRY *'
+C:\work\CVE-2024-38193\Poc\poc.cpp(793,16): warning C4477: 'printf' : format string '%llx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'PVOID'
+C:\work\CVE-2024-38193\Poc\poc.cpp(807,12): warning C4477: 'printf' : format string '%llx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'PVOID'
+C:\work\CVE-2024-38193\Poc\poc.cpp(883,8): warning C4311: 'type cast': pointer truncation from 'HANDLE' to 'NTSTATUS'
+C:\work\CVE-2024-38193\Poc\poc.cpp(883,8): warning C4302: 'type cast': truncation from 'HANDLE' to 'NTSTATUS'
+C:\work\CVE-2024-38193\Poc\poc.cpp(890,16): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'HANDLE'
+C:\work\CVE-2024-38193\Poc\poc.cpp(890,16): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'HANDLE'
+C:\work\CVE-2024-38193\Poc\poc.cpp(894,8): warning C4311: 'type cast': pointer truncation from 'HANDLE' to 'NTSTATUS'
+C:\work\CVE-2024-38193\Poc\poc.cpp(894,8): warning C4302: 'type cast': truncation from 'HANDLE' to 'NTSTATUS'
+C:\work\CVE-2024-38193\Poc\poc.cpp(902,16): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'HANDLE'
+C:\work\CVE-2024-38193\Poc\poc.cpp(902,16): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'HANDLE'
+C:\work\CVE-2024-38193\Poc\poc.cpp(914,16): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'HANDLE'
+C:\work\CVE-2024-38193\Poc\poc.cpp(914,16): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'HANDLE'
+C:\work\CVE-2024-38193\Poc\poc.cpp(923,16): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'HANDLE'
+C:\work\CVE-2024-38193\Poc\poc.cpp(923,16): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'HANDLE'
+C:\work\CVE-2024-38193\Poc\poc.cpp(944,16): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'HANDLE'
+C:\work\CVE-2024-38193\Poc\poc.cpp(944,16): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'HANDLE'
+C:\work\CVE-2024-38193\Poc\poc.cpp(965,16): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'ULONG_PTR'
+C:\work\CVE-2024-38193\Poc\poc.cpp(965,16): message : consider using '%llx' in the format string
+C:\work\CVE-2024-38193\Poc\poc.cpp(965,16): message : consider using '%Ix' in the format string
+C:\work\CVE-2024-38193\Poc\poc.cpp(965,16): message : consider using '%I64x' in the format string
+C:\work\CVE-2024-38193\Poc\poc.cpp(965,16): warning C4473: 'printf' : not enough arguments passed for format string
+C:\work\CVE-2024-38193\Poc\poc.cpp(965,16): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\work\CVE-2024-38193\Poc\poc.cpp(965,16): message : the missing variadic argument 2 is required by format string '%llx'
+C:\work\CVE-2024-38193\Poc\poc.cpp(984,16): warning C4473: 'printf' : not enough arguments passed for format string
+C:\work\CVE-2024-38193\Poc\poc.cpp(984,16): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\work\CVE-2024-38193\Poc\poc.cpp(984,16): message : the missing variadic argument 1 is required by format string '%x'
+C:\work\CVE-2024-38193\Poc\poc.cpp(997,16): warning C4473: 'printf' : not enough arguments passed for format string
+C:\work\CVE-2024-38193\Poc\poc.cpp(997,16): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\work\CVE-2024-38193\Poc\poc.cpp(997,16): message : the missing variadic argument 1 is required by format string '%x'
+C:\work\CVE-2024-38193\Poc\poc.cpp(866,21): warning C4101: 'statusblock': unreferenced local variable
+  Generating code
+  29 of 30 functions (96.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Poc.vcxproj -> C:\work\CVE-2024-38193\x64\Release\Poc.exe
